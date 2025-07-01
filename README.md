@@ -9,7 +9,7 @@ Este repositório faz parte do meu processo de aprendizado — com erros, ajuste
 
 HTML5
 
-CSS3 (Flexbox, Grid, variáveis)
+CSS3 (Flexbox, Variáveis)
 
 Organização semântica
 
