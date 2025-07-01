@@ -5,7 +5,7 @@ Olá! Sou uma estudante de front-end em desenvolvimento. Estou aprendendo HTML, 
 
 Este repositório faz parte do meu processo de aprendizado — com erros, ajustes e avanços reais. Meu objetivo é entender cada etapa da construção de um site, indo além de copiar modelos prontos.
 
-<a href="https://vfernandesdev.github.io/html-css/mini-portifolio/index.html"> Portifólio.</a>
+<a href="https://vfernandesdev.github.io/html-css/mini-portifolio/index.html" target="_blank"> Portifólio.</a>
 
 📌 Stack atual:
 
