@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="src/css/projeto1.css">
+    <title>Card-Perfil</title>
+</head>
+
+<body>
+    <main>
+        <div class="card">
+            <h2>Sara Beauchamp</h2>
+            <div>
+                <picture>
+                    <!--Imagens para celular-->
+                    <source media="(max-width: 768px)" srcset="src/imagem/250pxcelular.jpg">
+                    <!--Imagens para Tablet-->
+                    <source media="(max-width:1024px)" srcset="src/imagem/350pxtablet.jpg">
+                    <!--Imagens para Desktop-->
+                    <img src="src/imagem/500pxdesktop.jpg" alt="Foto de Sara Beauchamp sorrindo, fundo claro">
+                </picture>
+                <p>Designer de Interface</p>
+                <div class="butao"><a href="#">Contato</a></div>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>
